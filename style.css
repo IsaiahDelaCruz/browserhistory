@@ -13,3 +13,18 @@ h1, h2 {
     font-family: 'Oswald';
 }
 
+.left {
+    float: left;
+    width: 300px;
+}
+
+.right {
+    float: right;
+    width: 300px;
+}
+
+.center {
+    margin-left: 300px;
+    width: 300px;
+}
+
